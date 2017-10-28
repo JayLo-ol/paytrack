@@ -1,0 +1,22 @@
+{
+  "name": "paytrack",
+  "version": "0.0.1",
+  "description": "check how much money you have left",
+  "main": "paytrack.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JayLo-ol/paytrack.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JayLo-ol/paytrack/issues"
+  },
+  "homepage": "https://github.com/JayLo-ol/paytrack#readme",
+  "dependencies": {
+    "chai": "^4.1.2"
+  }
+}
