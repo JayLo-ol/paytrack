@@ -5,6 +5,7 @@
   "main": "paytrack.js",
   "scripts": {
     "test": "mocha"
+	"test": "npm test"
   },
   "repository": {
     "type": "git",
